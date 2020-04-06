@@ -1,5 +1,7 @@
 # kubernetes-bookmarks
 
+chrome://bookmarks/ -> Import bookmarks
+
 Resource | Link
 --- | ---
 Assigning Pods to Nodes | https://kubernetes.io/docs/concepts/configuration/assign-pod-node/
