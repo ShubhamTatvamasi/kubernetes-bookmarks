@@ -1,6 +1,6 @@
 # kubernetes-bookmarks
 
-chrome://bookmarks/ -> Import bookmarks
+chrome://bookmarks/ -> Import bookmarks -> cka_bookmarks.html
 
 Resource | Link
 --- | ---
